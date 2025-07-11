@@ -23,3 +23,4 @@ Not all games support key remapping via Autohotkey.
 
 ## License
 Massachusetts Institute of Technology © 2025 Hamerc30
+[Русская версия](README.ru.md)
