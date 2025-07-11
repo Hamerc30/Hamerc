@@ -18,6 +18,7 @@ Comprehensive solution for keyboard mirroring for left-handed users and training
 
 WARNING:
 Not all games support key remapping via Autohotkey.
+
 It may not work on all keyboards due to the larger/smaller number of keys.
 
 ## Installation
