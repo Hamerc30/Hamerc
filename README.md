@@ -11,11 +11,14 @@ Comprehensive solution for keyboard mirroring for left-handed users and training
 
 ## Advantages
 -Natural key position for left-handed users
+
 -Unconventional brain load, may potentially stimulate neuroplasticity and improve hand coordination (BUT THIS IS NOT CERTAIN)
+
 (Best used while holding mouse in left hand and swapping mouse buttons)
 
 WARNING:
 Not all games support key remapping via Autohotkey.
+It may not work on all keyboards due to the larger/smaller number of keys.
 
 ## Installation
 1. Download [AutoHotkey](https://www.autohotkey.com/)
